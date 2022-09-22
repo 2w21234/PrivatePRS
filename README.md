@@ -41,7 +41,7 @@ For dependencies, the ```CMakeList.txt``` file in /EVA needs to be modified as f
       'find_package(SEAL 3.6 REQUIRED)' -> 'find_package(SEAL)'
 And then run the second installation bash file.
 ```
-cd .. # 
+cd .. # Under PrivatePRS/
 bash 0_installation-2.sh
 ```
 

@@ -26,7 +26,7 @@ Lastly, the TTP decrypts the score and sends the result to the client. Under our
 We use EVA for compiler of homomorphic encryption system.
 To generate additive genotype data which consists of 0, 1 and 2 from bed file, we use plink.  
 The dependencies will be downloaded on a virtual environment named ```PrivatePRS```.
-R and its libraries (```data.table```, ```dpylr```) are required.
+```R``` and its libraries (```data.table```, ```dpylr```) are required.
 
 #### 1. Clone PrivatePRS, create virtual environment and set the environments
 ```

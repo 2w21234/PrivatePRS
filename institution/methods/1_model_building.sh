@@ -9,10 +9,10 @@ then
 	A2=$5
 	BETA=$6
 	P=$7
-	ref_dir=$8 #../../LD/ldblk_1kg_eur
-	bim_prefix=$9 #../../../client/test
-	n_gwas=${10} #50000
-	out_dir=${11} #../../methods/PRScs/results/
+	ref_dir=$8 
+	bim_prefix=$9 
+	n_gwas=${10} 
+	out_dir=${11} 
 	a=${12} #1
 	b=${13} #0.5
 	phi=${14} #auto
